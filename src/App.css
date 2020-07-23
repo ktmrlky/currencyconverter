@@ -9,21 +9,28 @@ body {
 
 h1 {
   margin: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  opacity: 0.7;
 }
 
 .input {
-  border: 1px solid #333;
+  border: 2px solid #dfe1e5;
   border-radius: 0.3rem;
-  padding: 0.25rem;
-  width: 7em;
+  padding: 0.5rem;
+  width: 10em;
+  font-size: 16px;
 }
 
 select {
+  border: 2px solid #dfe1e5;
+  width: 7em;
+  border-radius: 0.3rem;
   margin-left: 0.5rem;
+  padding: 0.5rem;
+  font-size: 16px;
 }
 
 .equals {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 3rem;
 }
